@@ -9244,7 +9244,7 @@ pub mod cdp {
             Font,
             Script,
             TextTrack,
-            Xhr,
+            XHR,
             Fetch,
             EventSource,
             WebSocket,
